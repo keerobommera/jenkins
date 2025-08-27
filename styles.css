@@ -6,7 +6,14 @@ body {
   box-sizing: border-box;
   color: #333;
 }
-
+.contact button {
+  background: #ff6f61;
+  color: #fff;
+  padding: 0.8rem;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+}
 header {
   background: #333;
   color: #fff;
@@ -133,3 +140,4 @@ footer {
   text-align: center;
   padding: 1rem;
 }
+
